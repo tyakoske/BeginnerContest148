@@ -16,7 +16,7 @@ public class Main {
 				continue;
 			}
 			i++;
-		}
+	 	}
 		if(i==c.length) {i=-1;}
 		System.out.println(i);
 	}
